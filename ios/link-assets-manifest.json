@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/FontsFree-Net-SFProText-Regular.ttf",
+      "sha1": "b4893462f2289df6978f9462a63db9e64bcc9342"
+    },
+    {
+      "path": "src/assets/fonts/sf-pro-text-bold.ttf",
+      "sha1": "31667a859b586e079d2e6d9193b8d245c939adb6"
+    }
+  ]
+}
